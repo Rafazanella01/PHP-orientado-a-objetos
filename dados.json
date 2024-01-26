@@ -1,0 +1,33 @@
+{
+    "nome": "Matematica",
+    "carga_horaria": 60,
+    "professor": {
+        "nome": "Eudes",
+        "idade": 56,
+        "disciplinas": [
+            "Matematica"
+        ]
+    },
+    "alunos": [
+        {
+            "nome": "Rafael",
+            "idade": 20,
+            "matricula": "m142054",
+            "notas": [
+                10,
+                10,
+                10
+            ]
+        },
+        {
+            "nome": "Rubens",
+            "idade": 23,
+            "matricula": "m435674",
+            "notas": [
+                9,
+                8,
+                7
+            ]
+        }
+    ]
+}
